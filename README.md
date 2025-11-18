@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicosx
 - 👀 I’m interested in learning more about IT systems and its applicabilities to streamlining business operations in a secure manner.
-- 🌱 I’m currently learning Linux (goal ->LFCE), AWS (goal ->CSA-Associate), Python and Security+.
-- 💞️ I’m looking to collaborate on  DevOps and open source projects
+- 🌱 I’m currently learning Linux (goal ->Linux Engineer (RHCE)), AWS (goal ->Solution Architect-Associate), Python and Security+.
+- 💞️ I’m looking to collaborate on DevOps and open source projects
 - 📫 How to reach me @nicosx@outlook.com
 
 <!---
